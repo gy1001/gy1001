@@ -3,8 +3,6 @@
 ![image](https://user-images.githubusercontent.com/21363757/208698198-d79cbb5a-7013-46a6-bca2-a9e76aae50f3.png)
 
 
-![image](https://user-images.githubusercontent.com/21363757/208570756-9f9d750b-d1f3-469a-989a-5554be205bb6.png)
-
 <!--
 **gy1001/gy1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

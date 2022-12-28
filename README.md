@@ -1,9 +1,9 @@
 ### Hi, i am watching you 
 
-![image](https://user-images.githubusercontent.com/21363757/208698198-d79cbb5a-7013-46a6-bca2-a9e76aae50f3.png)
-
+<img src="https://user-images.githubusercontent.com/21363757/208698198-d79cbb5a-7013-46a6-bca2-a9e76aae50f3.png" style="zoom:50%" />
 
 <!--
+
 **gy1001/gy1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

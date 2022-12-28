@@ -1,6 +1,6 @@
 ### Hi, i am watching you 
 
-<img src="https://user-images.githubusercontent.com/21363757/208698198-d79cbb5a-7013-46a6-bca2-a9e76aae50f3.png" style="zoom:50%" />
+<img src="https://user-images.githubusercontent.com/21363757/208698198-d79cbb5a-7013-46a6-bca2-a9e76aae50f3.png" width="50%" />
 
 <!--
 
